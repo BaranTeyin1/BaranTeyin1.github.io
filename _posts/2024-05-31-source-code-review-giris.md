@@ -1,3 +1,10 @@
+---
+title: "Source Code Review Giriş"
+date: 2024-05-31
+categories: [Code Review]
+tags: [Code Review]
+---
+
 ## **Secure Code Review Nedir?**
 
 Secure Code Review, yazılım geliştirme sürecinde kaynak kodun güvenlik açısından incelenmesi işlemidir. SDLC'nin kritik bir aşaması olan bu süreç, özellikle **XSS**, **SQLi**, **SSRF** gibi yaygın güvenlik açıklarının tespit edilmesini hedefler. Bu tür açıkların erken tespiti, veri sızıntısı gibi büyük güvenlik ihlallerinin önlenmesine katkı sağlar ve kurumun hem maddi hem de itibari kayıplar yaşamasının önüne geçer.
