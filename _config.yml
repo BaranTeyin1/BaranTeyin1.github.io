@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://media.discordapp.net/attachments/1332071913492582450/1358730290729582673/ChatGPT_Image_Apr_7_2025_12_04_26_PM.png?ex=683c18b1&is=683ac731&hm=3f6685119df4e49f538ed130d8ab04a2b064dbb324b766e56ab120a57227100b&=&format=webp&quality=lossless&width=510&height=766
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
